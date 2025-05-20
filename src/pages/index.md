@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Selamat Datang Di Web Saya
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: minum kopi mas e
 subheading: Makan Bang
 mainpitch:
   title: Why Kaldi
